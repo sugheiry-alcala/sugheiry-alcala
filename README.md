@@ -9,7 +9,9 @@ Frontend Developer
   HTML CSS JavaScript Webpack React Git Github 
 
 📫 How to reach me: 
+
 https://www.linkedin.com/in/sugheiry-alcala
+
 email: sugheiry@gmail.com
 
 
