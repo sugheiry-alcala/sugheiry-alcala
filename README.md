@@ -2,7 +2,8 @@
 
 Frontend Developer
 
-🌱 I’m currently learning in Platzi in the school of Web Development and JavaScript.
+🌱 I am a Frontend Developer, I trained at Platzi in the Web Development and JavaScript school. I have experience doing personal projects. I am passionate about learning and always being updated to improve both my technical skills and my soft skills. I also like to teach and work in a team sharing the knowledge acquired.
+
 
 💻 Tecnologies that I use:
 
