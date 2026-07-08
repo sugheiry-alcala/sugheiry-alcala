@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Sugheiry Alcalá 👋</h1>
 
 <h3 align="center">
-Software Developer • Data & AI Analyst • Product Builder
+Software Developer | Data & AI Analyst | Business Technology Professional
 </h3>
 
 <p align="center">
-I build digital solutions that combine software development, data analytics, artificial intelligence, and business strategy to solve real-world challenges.
+Building digital solutions where technology, data and business strategy work together.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ I build digital solutions that combine software development, data analytics, art
 </a>
 
 <a href="mailto:sugheiry@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -28,27 +28,32 @@ I build digital solutions that combine software development, data analytics, art
 
 # 👩‍💻 About Me
 
-I'm passionate about creating technology that solves real business problems.
+I believe technology creates the greatest value when it solves real business problems.
 
-My professional journey combines **software development**, **data analytics**, **artificial intelligence**, **marketing & sales**, and **education**, allowing me to understand both business needs and the technology required to transform them into valuable digital products.
+My professional journey began in commercial operations, where I developed a deep understanding of customer needs, business processes, and operational challenges. Working directly with people taught me that every process can be improved, and that meaningful innovation starts with understanding how businesses actually work.
 
-I believe technology creates the greatest impact when it improves people's work, supports better decisions, and simplifies everyday processes.
+Driven by that mindset, I transitioned into software development and expanded my expertise into data analytics, artificial intelligence, and digital product development. Today, I combine these disciplines to design solutions that improve operational efficiency, support data-driven decision-making, and create measurable impact.
+
+One of the projects that best represents this vision is **BreakTrack Pro**, an employee break management platform inspired by a real operational challenge. What started as an internal solution evolved into a complete digital product that includes automation, dashboards, analytics, documentation, branding, and a product-oriented development approach.
+
+Alongside my technical journey, I continue strengthening my knowledge in **Marketing & Sales** because I believe successful digital products are built by understanding both technology and business. Knowing how customers think, how organizations operate, and how value is delivered is just as important as writing clean code.
+
+Beyond development, I enjoy teaching, sharing knowledge, collaborating with technology communities, and continuously learning. Every new project is an opportunity to grow, experiment, and build technology that makes people's work easier and organizations more efficient.
+
+My goal is to contribute to innovative teams where software development, data analytics, artificial intelligence, and business strategy come together to build products that solve real-world challenges.
 
 ---
 
 # 🚀 What I Do
 
-💻 Software Development
-
-📊 Data Analytics
-
-🤖 Artificial Intelligence
-
-📈 Marketing & Sales
-
-🎓 Education & Knowledge Sharing
-
-🚀 Digital Product Development
+- 💻 Software Development
+- 📊 Data Analytics
+- 🤖 Artificial Intelligence
+- 📈 Marketing & Sales
+- 🚀 Digital Product Development
+- 🎓 Education & Community Building
+- 📱 Frontend Development
+- ⚙️ Business Process Automation
 
 ---
 
@@ -58,7 +63,7 @@ I believe technology creates the greatest impact when it improves people's work,
 
 **Employee Break Management Platform**
 
-BreakTrack Pro is a SaaS-inspired platform created to automate employee break management through real-time monitoring, operational dashboards and analytics.
+A SaaS-inspired platform designed to automate employee break management through real-time monitoring, operational dashboards, compliance tracking, and analytics.
 
 ### Key Features
 
@@ -69,8 +74,97 @@ BreakTrack Pro is a SaaS-inspired platform created to automate employee break ma
 - Employee Ranking
 - Real-Time Analytics
 - Google Apps Script Automation
+- Google Sheets Database
 - Professional Documentation
 
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+- JavaScript
+- HTML5
+- CSS3
+- SQL
+
+## Frameworks & Libraries
+
+- React
+- Git
+- GitHub
+
+## Data & AI
+
+- Google Sheets
+- Google Apps Script
+- Data Analytics
+- Artificial Intelligence
+
+## Tools
+
+- VS Code
+- Figma
+- Canva
+- Power BI (Learning)
+- Looker Studio
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Marketing & Sales
+- Product Design
+- Data Visualization
+- Business Intelligence
+- Software Architecture
+
+---
+
+# 📌 Featured Repositories
+
+- 🚀 BreakTrack Pro
+- 🌐 Portfolio
+- 📰 NewsApp
+- 🐾 Petgram
+- ⚛️ TodoMachine
+- 🥑 Avocado
+
+---
+
+# 🎯 Professional Interests
+
+- Software Engineering
+- Product Development
+- Artificial Intelligence
+- Data Analytics
+- Frontend Development
+- Business Intelligence
+- Automation
+- Digital Transformation
+
+---
+
+# 🌍 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sugheiry-alcala
+- 💻 GitHub: https://github.com/sugheiry-alcala
+- 📧 Email: sugheiry@gmail.com
+- 🌐 Portfolio: Coming Soon
+
+---
+
+# 💬 Personal Motto
+
+> **"Technology creates value when it solves real problems."**
+
+---
+
+<p align="center">
+Thank you for visiting my profile! 🚀
+I'm always excited to collaborate on innovative projects, continue learning, and build technology that creates real impact.
+</p>
 ---
 
 # 🛠 Tech Stack
