@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Sugheiry Alcalá 👋</h1>
 
 <h3 align="center">
@@ -71,6 +70,16 @@ BreakTrack Pro is a SaaS-inspired platform created to automate employee break ma
 - Real-Time Analytics
 - Google Apps Script Automation
 - Professional Documentation
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.sh
 
 ---
 
