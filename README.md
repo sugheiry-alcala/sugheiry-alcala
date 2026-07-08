@@ -1,8 +1,36 @@
 ### Hi there Sugheiry Alcalá 👋
 
-Frontend Developer
+Frontend Developer | Data & AI Analyst | Commercial Advisor∫
 
-🌱 I am a Frontend Developer, I trained at Platzi in the Web Development and JavaScript school. I have experience doing personal projects. I am passionate about learning and always being updated to improve both my technical skills and my soft skills. I also like to teach and work in a team sharing the knowledge acquired.
+🌱 <h1 align="center">Hi there, I'm Sugheiry Alcalá 👋</h1>
+
+<h3 align="center">
+Software Developer • Data & AI Analyst • Educator
+</h3>
+
+<p align="center">
+Building digital solutions that combine software, data and artificial intelligence to solve real-world problems.
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Software Developer and Data & AI Analyst passionate about transforming operational challenges into digital solutions.
+
+My experience combines software development, data analysis, automation and commercial operations, allowing me to understand business needs and translate them into practical technology solutions.
+
+I enjoy building products that improve processes, creating intuitive user experiences, analyzing data to support decision-making, and continuously learning new technologies.
+
+---
+
+## 🚀 Featured Project
+
+### ⭐ BreakTrack Pro
+
+**Employee Break Management Platform**
+
+A professional SaaS-inspired solution that automates employee break
 
 
 💻 Tecnologies that I use:
