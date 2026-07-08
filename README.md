@@ -1,10 +1,8 @@
-### Hi there Sugheiry Alcalá 👋
 
-Frontend Developer | Data & AI Analyst | Commercial Advisor∫
 <h1 align="center">Hi there, I'm Sugheiry Alcalá 👋</h1>
 
 <h3 align="center">
-Software Developer • Data & AI Analyst • Educator
+Software Developer • Data & AI Analyst • Educator • Comercial Advisor 
 </h3>
 
 <p align="center">
