@@ -167,15 +167,6 @@ I'm always excited to collaborate on innovative projects, continue learning, and
 </p>
 ---
 
-# 🛠 Tech Stack
-
-## Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-![HTML5](https://img.sh
-
----
 
 # 🛠 Tech Stack
 
