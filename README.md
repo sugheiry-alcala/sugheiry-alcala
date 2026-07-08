@@ -1,8 +1,7 @@
 ### Hi there Sugheiry Alcalá 👋
 
 Frontend Developer | Data & AI Analyst | Commercial Advisor∫
-
-🌱 <h1 align="center">Hi there, I'm Sugheiry Alcalá 👋</h1>
+<h1 align="center">Hi there, I'm Sugheiry Alcalá 👋</h1>
 
 <h3 align="center">
 Software Developer • Data & AI Analyst • Educator
@@ -22,6 +21,15 @@ My experience combines software development, data analysis, automation and comme
 
 I enjoy building products that improve processes, creating intuitive user experiences, analyzing data to support decision-making, and continuously learning new technologies.
 
+---
+
+## 🚀 Featured Project
+
+### ⭐ BreakTrack Pro
+
+**Employee Break Management Platform**
+
+A professional SaaS-inspired solution that automates employee break
 ---
 
 ## 🚀 Featured Project
